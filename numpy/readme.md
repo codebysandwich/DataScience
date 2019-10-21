@@ -1,2 +1,2 @@
 # numpy部分
-## [BaseNumPy]()
+## [NumPyBase](https://nbviewer.jupyter.org/github/codebysandwich/DataScience/blob/master/numpy/NumPyBase.ipynb)
