@@ -1,5 +1,5 @@
 # pandas
-## 官方十分钟入门解析
+## [官方十分钟入门解析](https://nbviewer.jupyter.org/github/codebysandwich/DataScience/blob/master/pandas/10minutesToPandas.ipynb)
 1. 基础数据结构:Series, DataFrame
 2. 创建Series,DataFrame
 3. 数据视图（区别拷贝）
