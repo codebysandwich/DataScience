@@ -1,2 +1,16 @@
 # pandas
 ## 官方十分钟入门解析
+1. 基础数据结构:Series, DataFrame
+2. 创建Series,DataFrame
+3. 数据视图（区别拷贝）
+4. 简单的数据统计
+5. 索引切片
+6. 布尔数组（用于过滤检索数据）
+7. 增加修改数据
+8. apply()，
+9. groupby()
+10. 数据融合，merge()实现excel的vlookup
+11. pivot_table()数据视图
+12. 时间序列
+13. 绘图
+14. 数据存取
