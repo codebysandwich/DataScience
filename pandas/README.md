@@ -21,3 +21,7 @@
 3. 分项小计
 4. 自定义聚合方法
 5. 复杂的聚合
+
+## [如何计算数据序列变化的百分比？](https://github.com/codebysandwich/DataScience/blob/master/pandas/shiftingInPandas.ipynb)
+1. pandas中的shift函数
+2. 计算数据序列的百分比变化
