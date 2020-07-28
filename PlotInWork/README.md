@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-28 14:32:33
+ * @LastEditTime: 2020-07-28 14:37:54
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -19,7 +19,7 @@
 + :fire:CO独立一个Y轴，不至于信息被遮挡
 + :rocket:实现柱状图数据标记
 + :basketball:在标签及其他文本中使用`latex`表述
-[![双Y同比图](../data/pic/双Y柱形图.png)](../PlotInWork/双Y轴同比数据绘制.ipynb)
+[![双Y同比图](https://i.loli.net/2020/07/28/kbTJK5IPlMvi3Ls.png)](../PlotInWork/双Y轴同比数据绘制.ipynb)
 ## 地理绘图
 ## 动态绘图
 ## tips
