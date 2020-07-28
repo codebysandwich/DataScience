@@ -1,17 +1,17 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-28 13:40:29
+ * @LastEditTime: 2020-07-28 14:32:33
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
 --> 
 # 日常工作中的绘图-Python实现
-![logo](../data/pic/logo.png)
+![logo](https://i.loli.net/2020/07/28/X5WEUHuFKkgDj6z.png)
 该仓库主要整理工作中常见的绘图工作，当需要进行数据批量绘图时可以结合数据批处理实现。部分产品数据使用模拟数据实现，开源绘图代码。权作整理汇总之用。代码用`jupyter`支持。
 ## 常规绘图
 ### 时间序列绘图
-### 
+### 柱形图
 ### 组分饼图
 ***
 ## 非常规绘图
