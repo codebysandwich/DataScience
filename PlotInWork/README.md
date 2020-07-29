@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-30 00:47:05
+ * @LastEditTime: 2020-07-30 00:50:43
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -40,11 +40,11 @@
 + :fire:简单雷达图到特征雷达图绘制
 + :apple:使用极坐标绘制实现
 + :rocket:整理数据集可以实现批量绘制特征雷达图
-<center class='half'>
+<figure class='half'>
 <a href='../PlotInWork/特征雷达绘图.ipynb'>
 <img src = 'https://i.loli.net/2020/07/30/3EfwIRhsQmMv1cl.png' href = '../PlotInWork/特征雷达绘图.ipynb' width = "50%" align = left></img></a><a href='../PlotInWork/特征雷达绘图.ipynb'>
 <img src = "https://i.loli.net/2020/07/30/ivP3Ga941e7zRN8.png"  width = "50%" align = right></img></a>
-</center>&ensp;
+</figure>&ensp;
 
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
