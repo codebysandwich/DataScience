@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-30 00:59:54
+ * @LastEditTime: 2020-07-30 01:11:43
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -40,15 +40,9 @@
 + :fire:简单雷达图到特征雷达图绘制
 + :apple:使用极坐标绘制实现
 + :rocket:整理数据集可以实现批量绘制特征雷达图
-<!-- <figure class='half'>
-    <a href='../PlotInWork/特征雷达绘图.ipynb'>
-    <img src = 'https://i.loli.net/2020/07/30/3EfwIRhsQmMv1cl.png' width = '50%' align = left>
-    </a>
-    <a href='../PlotInWork/特征雷达绘图.ipynb'>
-    <img src = "https://i.loli.net/2020/07/30/ivP3Ga941e7zRN8.png" width='50%' align = right>
-    </a>
-</figure>&ensp; -->
-![](https://i.loli.net/2020/07/30/3EfwIRhsQmMv1cl.png)![](https://i.loli.net/2020/07/30/ivP3Ga941e7zRN8.png)
+<figure class='half'>
+    <a href='../PlotInWork/特征雷达绘图.ipynb'><img src = 'https://i.loli.net/2020/07/30/3EfwIRhsQmMv1cl.png' width='50%'><a href='../PlotInWork/特征雷达绘图.ipynb'><img src = "https://i.loli.net/2020/07/30/ivP3Ga941e7zRN8.png" width='50%'>
+</figure>&ensp;
 
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
