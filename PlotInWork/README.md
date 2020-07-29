@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-29 11:08:10
+ * @LastEditTime: 2020-07-29 14:01:18
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -29,6 +29,12 @@
 + :fire:时间轴定制标签
 + :smile:共享X轴，并调整子图间距
 [![共享X轴时间序列](https://i.loli.net/2020/07/29/GgO6j3yRLFUdAZE.png)](../PlotInWork/时间序列.ipynb)
+### 雷达产品伪彩图
++ :pencil:实现盲区过滤
++ :rocket:可选择图片绘制高度上限（5Km）
++ :football:伪彩图cmap参数自定义
++ :fire:支持图片保存
+[![lidar](https://i.loli.net/2020/07/29/St5pxyTzGahwjoO.png)](../PlotInWork/伪彩图绘制.ipynb)
 ## 地理绘图
 ## 动态绘图
 ## tips
