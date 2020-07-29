@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-29 14:01:18
+ * @LastEditTime: 2020-07-29 14:06:08
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -34,7 +34,7 @@
 + :rocket:可选择图片绘制高度上限（5Km）
 + :football:伪彩图cmap参数自定义
 + :fire:支持图片保存
-[![lidar](https://i.loli.net/2020/07/29/St5pxyTzGahwjoO.png)](../PlotInWork/伪彩图绘制.ipynb)
+<br>[![lidar](https://i.loli.net/2020/07/29/St5pxyTzGahwjoO.png)](../PlotInWork/伪彩图绘制.ipynb)
 ## 地理绘图
 ## 动态绘图
 ## tips
