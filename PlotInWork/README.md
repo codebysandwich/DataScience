@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-29 14:06:08
+ * @LastEditTime: 2020-07-29 16:24:58
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -29,6 +29,13 @@
 + :fire:时间轴定制标签
 + :smile:共享X轴，并调整子图间距
 [![共享X轴时间序列](https://i.loli.net/2020/07/29/GgO6j3yRLFUdAZE.png)](../PlotInWork/时间序列.ipynb)
+### 堆叠图（模拟重构）
++ :lemon:组分堆叠
++ :tomato:堆叠加折线图模拟重构
++ :hamburger:图例及封装重置X轴标签
+[![堆叠图](https://i.loli.net/2020/07/29/U7aYvIT2dANeQtn.png)](../PlotInWork/模拟组分重构-堆叠图.ipynb)
++ :fire: 基于时间序列堆叠和数据处理绘制百分比堆叠
+[![百分比堆叠](https://i.loli.net/2020/07/29/jMp1fv7J2QZmTkH.png)](../PlotInWork/模拟组分重构-堆叠图.ipynb)
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
 + :rocket:可选择图片绘制高度上限（5Km）
