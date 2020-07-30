@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-30 01:17:06
+ * @LastEditTime: 2020-07-30 14:36:10
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -44,12 +44,20 @@
     <a href='../PlotInWork/特征雷达绘图.ipynb'><img src = 'https://i.loli.net/2020/07/30/3EfwIRhsQmMv1cl.png' width='50%'></a><a href='../PlotInWork/特征雷达绘图.ipynb'><img src = "https://i.loli.net/2020/07/30/ivP3Ga941e7zRN8.png" width='50%'></a>
 </figure>&ensp;
 
+### 日历图
+
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
 + :rocket:可选择图片绘制高度上限（5Km）
 + :football:伪彩图cmap参数自定义
 + :fire:支持图片保存
 <br>[![lidar](https://i.loli.net/2020/07/29/St5pxyTzGahwjoO.png)](../PlotInWork/伪彩图绘制.ipynb)
++ :rocket:使用等高线绘图，绘制扫描雷达图
++ :football:使用绘制图片来实现扫描雷达伪彩图绘制，且可将该思路用于绘制污染玫瑰图
+<figure class='half'>
+    <a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/tYafCRJLm16VpwS.png' width='50%'></a><a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/zEilPAYMu5sbqjF.png' width='50%'></a>
+</figure>&ensp;
+
 ## 地理绘图
 ## 动态绘图
 ## tips
