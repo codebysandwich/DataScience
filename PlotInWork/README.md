@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-30 17:32:35
+ * @LastEditTime: 2020-07-30 23:08:46
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -11,6 +11,7 @@
 该仓库主要整理工作中常见的绘图工作，当需要进行数据批量绘图时可以结合数据批处理实现。部分产品数据使用模拟数据实现，开源绘图代码。权作整理汇总之用。代码用`jupyter`支持。
 + :+1:代码模板性比较强，对同种数据结构支撑较好
 + :-1:数据结构发生变化，则对应的代码需要调整
++ :exclamation:图片均已链接到源码
 [TOC]
 ## 常规绘图
 ### 时间序列绘图
@@ -18,6 +19,7 @@
 文件原地址包含快速绘制的方法`pd.DataFrame.plot`
 [![常规时间序列](https://i.loli.net/2020/07/29/RomOTl3ScVrgW4u.png)](../PlotInWork/时间序列.ipynb)
 ### 柱形图
+### 箱图
 ### 组分饼图
 ***
 ## 非常规绘图
@@ -30,6 +32,13 @@
 + :fire:时间轴定制标签
 + :smile:共享X轴，并调整子图间距
 [![共享X轴时间序列](https://i.loli.net/2020/07/29/GgO6j3yRLFUdAZE.png)](../PlotInWork/时间序列.ipynb)
+### 为绘图添加背景色
+[![](https://i.loli.net/2020/07/30/h4HnsUKNbaJMBAu.png)](../PlotInWork/plotInimage.ipynb)
+### 常规参数复合绘图
++ :heavy_check_mark:实现风向风速绘制
++ :heart:实现定义坐标轴颜色
++ :joy:代码过于冗长，好在可以套用数据模板实现调用简化
+[![常规参数](https://i.loli.net/2020/07/30/8TDHkhQXR5JvjeM.png)](../PlotInWork/常规六参数.ipynb)
 ### 堆叠图（模拟重构）
 + :lemon:组分堆叠
 + :tomato:堆叠加折线图模拟重构
@@ -59,6 +68,12 @@
 [![](https://i.loli.net/2020/07/30/YRqkhN3Dwylxg2T.png)](../PlotInWork/日历图.ipynb)
 [![](https://i.loli.net/2020/07/30/zUJK8EBIvmbCyqd.png)](../PlotInWork/日历图.ipynb)
 
+### 玫瑰图
++ :rose:实现风频统计及玫瑰图绘制
++ :fire:利用等高线实现差值绘制污染玫瑰图
+<figure class='half'>
+    <a href='../PlotInWork/WindRose.ipynb'><img src='https://i.loli.net/2020/07/30/AydcLhuiYDxmG3p.png' width='50%'></a><a href='../PlotInWork/WindRose.ipynb'><img src='https://i.loli.net/2020/07/30/P8gr5N3MU6vQOcJ.png' width='50%'></a>
+</figure>&ensp;
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
 + :rocket:可选择图片绘制高度上限（5Km）
