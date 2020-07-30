@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-30 14:36:10
+ * @LastEditTime: 2020-07-30 17:32:35
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -11,6 +11,7 @@
 该仓库主要整理工作中常见的绘图工作，当需要进行数据批量绘图时可以结合数据批处理实现。部分产品数据使用模拟数据实现，开源绘图代码。权作整理汇总之用。代码用`jupyter`支持。
 + :+1:代码模板性比较强，对同种数据结构支撑较好
 + :-1:数据结构发生变化，则对应的代码需要调整
+[TOC]
 ## 常规绘图
 ### 时间序列绘图
 + :house:常规时间序列绘图
@@ -45,6 +46,18 @@
 </figure>&ensp;
 
 ### 日历图
+#### 日历热力图
++ :fire:基于seaborn实现
++ :rocket:自定义颜色及颜色值的映射区间
+[![日历热力图](https://i.loli.net/2020/07/30/tGyj3WxIcYH6pMS.png)](../PlotInWork/日历图.ipynb)
+#### 自定义标签日历图
++ :calendar: 实现比较底层与简单
++ :fire:实现colorbar自定义及位子调整
+[![标签热力图](https://i.loli.net/2020/07/30/QaPOj8WVXdAxkDt.png)](../PlotInWork/日历图.ipynb)
+#### 基于pyecharts实现日历图
++ :fire:实现动态交互
+[![](https://i.loli.net/2020/07/30/YRqkhN3Dwylxg2T.png)](../PlotInWork/日历图.ipynb)
+[![](https://i.loli.net/2020/07/30/zUJK8EBIvmbCyqd.png)](../PlotInWork/日历图.ipynb)
 
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
