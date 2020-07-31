@@ -63,6 +63,8 @@
 ### 为绘图添加背景色
 [![](https://i.loli.net/2020/07/30/h4HnsUKNbaJMBAu.png)](../PlotInWork/plotInimage.ipynb)
 ### 为常规点图增加伪彩色
++ :rocket:点位置信息+点尺寸信息+点颜色信息
+[![](https://i.loli.net/2020/07/31/M6xHDcmNigh8l5O.png)](../PlotInWork/ScatterColorPlot.ipynb)
 ### 常规参数复合绘图
 + :heavy_check_mark:实现风向风速绘制
 + :heart:实现定义坐标轴颜色
