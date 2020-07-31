@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-31 14:00:21
+ * @LastEditTime: 2020-07-31 17:39:59
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -24,6 +24,7 @@
         - [柱形图](#柱形图)
         - [箱图](#箱图)
         - [组分饼图](#组分饼图)
+        - [直方图](#直方图)
     - [非常规绘图](#非常规绘图)
         - [双Y轴同比柱状图](#双y轴同比柱状图)
         - [共享X轴的时间序列图](#共享x轴的时间序列图)
@@ -60,6 +61,8 @@
 ### 箱图
 [![box](https://i.loli.net/2020/07/31/TKSuEwyh3FbDlnm.png)](../PlotInWork/common.ipynb)
 ### 组分饼图
+### 直方图
+[![](https://i.loli.net/2020/07/31/9NhC2evdHTEjkrU.png)](../PlotInWork/common.ipynb)
 
 ***
 ## 非常规绘图
@@ -76,7 +79,9 @@
 [![](https://i.loli.net/2020/07/30/h4HnsUKNbaJMBAu.png)](../PlotInWork/plotInimage.ipynb)
 ### 为常规点图增加伪彩色
 + :rocket:点位置信息+点尺寸信息+点颜色信息
-[![](https://i.loli.net/2020/07/31/M6xHDcmNigh8l5O.png)](../PlotInWork/ScatterColorPlot.ipynb)
+<figure class='half'>
+    <a href='../PlotInWork/ScatterColorPlot.ipynb'><img src='https://i.loli.net/2020/07/31/M6xHDcmNigh8l5O.png' width='60%'><a href='../PlotInWork/ScatterColorPlot.ipynb'><img src='https://i.loli.net/2020/07/31/ySDhIwZNOT4517u.png' width='40%'></a>
+</figure>
 ### 常规参数复合绘图
 + :heavy_check_mark:实现风向风速绘制
 + :heart:实现定义坐标轴颜色
@@ -130,8 +135,12 @@
     <a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/tYafCRJLm16VpwS.png' width='50%'></a><a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/zEilPAYMu5sbqjF.png' width='50%'></a>
 </figure>&ensp;
 
+***
+
 ## 地理绘图
+***
 ## 动态绘图
+***
 ## tips
 ### 华夫饼图
 + :green_apple:支持在线多种图标
