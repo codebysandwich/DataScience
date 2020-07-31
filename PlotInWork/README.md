@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-30 23:18:20
+ * @LastEditTime: 2020-07-31 14:00:21
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -14,6 +14,8 @@
 + :+1:代码模板性比较强，对同种数据结构支撑较好
 + :-1:数据结构发生变化，则对应的代码需要调整
 + :exclamation:图片均已链接到源码
+
+**:memo:阅读目录**
 <!-- TOC orderedList:false -->
 
 - [日常工作中的绘图-Python实现](#日常工作中的绘图-python实现)
@@ -39,6 +41,7 @@
     - [地理绘图](#地理绘图)
     - [动态绘图](#动态绘图)
     - [tips](#tips)
+        - [华夫饼图](#华夫饼图)
 
 <!-- /TOC -->
 ## 常规绘图
@@ -47,8 +50,17 @@
 文件原地址包含快速绘制的方法`pd.DataFrame.plot`
 [![常规时间序列](https://i.loli.net/2020/07/29/RomOTl3ScVrgW4u.png)](../PlotInWork/时间序列.ipynb)
 ### 柱形图
++ :rocket:实现条形图堆叠
++ :fire:实现纵向与横向条形图绘制
+<figure class='half'>
+    <a href='../PlotInWork/common.ipynb'>
+    <img src='https://i.loli.net/2020/07/31/KOMfY98UIQdNhEF.png' width='50%'></a><a href='../PlotInWork/common.ipynb'><img src='https://i.loli.net/2020/07/31/Bz2TZ86dsyp1Rvh.png' width='50%'></a>
+</figure>&ensp;
+
 ### 箱图
+[![box](https://i.loli.net/2020/07/31/TKSuEwyh3FbDlnm.png)](../PlotInWork/common.ipynb)
 ### 组分饼图
+
 ***
 ## 非常规绘图
 ### 双Y轴同比柱状图
@@ -121,3 +133,8 @@
 ## 地理绘图
 ## 动态绘图
 ## tips
+### 华夫饼图
++ :green_apple:支持在线多种图标
++ :christmas_tree:支持自定义图例
+[![](https://i.loli.net/2020/07/31/wuKY1kHTUIPFWSn.png)](../PlotInWork/WaffleInPython.ipynb)
+[![](https://i.loli.net/2020/07/31/SJDrowxpQMZEHOi.png)](../PlotInWork/WaffleInPython.ipynb)
