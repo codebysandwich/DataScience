@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-31 17:39:59
+ * @LastEditTime: 2020-07-31 17:45:57
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -79,9 +79,11 @@
 [![](https://i.loli.net/2020/07/30/h4HnsUKNbaJMBAu.png)](../PlotInWork/plotInimage.ipynb)
 ### 为常规点图增加伪彩色
 + :rocket:点位置信息+点尺寸信息+点颜色信息
+
 <figure class='half'>
     <a href='../PlotInWork/ScatterColorPlot.ipynb'><img src='https://i.loli.net/2020/07/31/M6xHDcmNigh8l5O.png' width='60%'><a href='../PlotInWork/ScatterColorPlot.ipynb'><img src='https://i.loli.net/2020/07/31/ySDhIwZNOT4517u.png' width='40%'></a>
-</figure>
+</figure>&ensp;
+
 ### 常规参数复合绘图
 + :heavy_check_mark:实现风向风速绘制
 + :heart:实现定义坐标轴颜色
@@ -94,6 +96,7 @@
 [![堆叠图](https://i.loli.net/2020/07/29/U7aYvIT2dANeQtn.png)](../PlotInWork/模拟组分重构-堆叠图.ipynb)
 + :fire: 基于时间序列堆叠和数据处理绘制百分比堆叠
 [![百分比堆叠](https://i.loli.net/2020/07/29/jMp1fv7J2QZmTkH.png)](../PlotInWork/模拟组分重构-堆叠图.ipynb)
+
 ### 特征雷达图
 + :fire:简单雷达图到特征雷达图绘制
 + :apple:使用极坐标绘制实现
