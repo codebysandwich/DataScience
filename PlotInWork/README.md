@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-07-31 17:45:57
+ * @LastEditTime: 2020-08-04 17:17:46
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -61,6 +61,10 @@
 ### 箱图
 [![box](https://i.loli.net/2020/07/31/TKSuEwyh3FbDlnm.png)](../PlotInWork/common.ipynb)
 ### 组分饼图
+<figure class='half'>
+    <a href='../PlotInWork/饼图.ipynb'><img src='https://i.loli.net/2020/08/04/DY4VHKqeN6UkaJv.png' width='40%'></a><a href='../PlotInWork/饼图.ipynb'><img src='https://i.loli.net/2020/08/04/hozA3uPIncGLQ2J.png' width='60%'></a>
+</figure>
+
 ### 直方图
 [![](https://i.loli.net/2020/07/31/9NhC2evdHTEjkrU.png)](../PlotInWork/common.ipynb)
 
@@ -82,7 +86,7 @@
 
 <figure class='half'>
     <a href='../PlotInWork/ScatterColorPlot.ipynb'><img src='https://i.loli.net/2020/07/31/M6xHDcmNigh8l5O.png' width='60%'><a href='../PlotInWork/ScatterColorPlot.ipynb'><img src='https://i.loli.net/2020/07/31/ySDhIwZNOT4517u.png' width='40%'></a>
-</figure>&ensp;
+</figure>
 
 ### 常规参数复合绘图
 + :heavy_check_mark:实现风向风速绘制
@@ -103,7 +107,7 @@
 + :rocket:整理数据集可以实现批量绘制特征雷达图
 <figure class='half'>
     <a href='../PlotInWork/特征雷达绘图.ipynb'><img src = 'https://i.loli.net/2020/07/30/3EfwIRhsQmMv1cl.png' width='50%'></a><a href='../PlotInWork/特征雷达绘图.ipynb'><img src = "https://i.loli.net/2020/07/30/ivP3Ga941e7zRN8.png" width='50%'></a>
-</figure>&ensp;
+</figure>
 
 ### 日历图
 #### 日历热力图
@@ -124,7 +128,7 @@
 + :fire:利用等高线实现差值绘制污染玫瑰图
 <figure class='half'>
     <a href='../PlotInWork/WindRose.ipynb'><img src='https://i.loli.net/2020/07/30/AydcLhuiYDxmG3p.png' width='50%'></a><a href='../PlotInWork/WindRose.ipynb'><img src='https://i.loli.net/2020/07/30/P8gr5N3MU6vQOcJ.png' width='50%'></a>
-</figure>&ensp;
+</figure>
 
 ### 雷达产品伪彩图
 + :pencil:实现盲区过滤
@@ -136,7 +140,7 @@
 + :football:使用绘制图片来实现扫描雷达伪彩图绘制，且可将该思路用于绘制污染玫瑰图
 <figure class='half'>
     <a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/tYafCRJLm16VpwS.png' width='50%'></a><a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/zEilPAYMu5sbqjF.png' width='50%'></a>
-</figure>&ensp;
+</figure>
 
 ***
 
