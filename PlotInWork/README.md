@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-08-04 17:17:46
+ * @LastEditTime: 2020-08-06 17:59:34
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -145,6 +145,10 @@
 ***
 
 ## 地理绘图
++ :fire:地图信息交互
++ :-1: 通过模拟数据实现原理
++ :rose: 通过html字体实现中文标签
+[![folium](https://i.loli.net/2020/08/06/CP9Z4J7we1piLfE.jpg)](../PlotInWork/folium绘制地理图.ipynb)
 ***
 ## 动态绘图
 ***
