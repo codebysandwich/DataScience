@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-08-06 17:59:34
+ * @LastEditTime: 2020-08-13 21:17:19
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -92,7 +92,7 @@
 + :heavy_check_mark:实现风向风速绘制
 + :heart:实现定义坐标轴颜色
 + :joy:代码过于冗长，好在可以套用数据模板实现调用简化
-[![常规参数](https://i.loli.net/2020/07/30/8TDHkhQXR5JvjeM.png)](../PlotInWork/常规六参数.ipynb)
+[![常规参数](https://i.loli.net/2020/08/13/Glzq8Fgfc9vXNWh.png)](../PlotInWork/常规六参数.ipynb)
 ### 堆叠图（模拟重构）
 + :lemon:组分堆叠
 + :tomato:堆叠加折线图模拟重构
