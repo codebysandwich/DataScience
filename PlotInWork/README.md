@@ -1,11 +1,11 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-08-13 21:17:19
+ * @LastEditTime: 2020-08-20 22:44:22
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
---> 
+-->
 # 日常工作中的绘图-Python实现
 
 
@@ -39,6 +39,7 @@
             - [基于pyecharts实现日历图](#基于pyecharts实现日历图)
         - [玫瑰图](#玫瑰图)
         - [雷达产品伪彩图](#雷达产品伪彩图)
+        - [雷达局部扫描动态-gif绘制](#雷达局部扫描动态-gif绘制)
     - [地理绘图](#地理绘图)
     - [动态绘图](#动态绘图)
     - [tips](#tips)
@@ -142,6 +143,10 @@
     <a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/tYafCRJLm16VpwS.png' width='50%'></a><a href='../PlotInWork/伪彩图绘制.ipynb'><img src='https://i.loli.net/2020/07/30/zEilPAYMu5sbqjF.png' width='50%'></a>
 </figure>
 
+### 雷达局部扫描动态-gif绘制
++ :fire: 实现gif动图制作
++ :rocket: 实现时序图扫描并动态展示，可拓展到其他时序图
+[![](https://i.loli.net/2020/08/20/SJlWRsnHtOaEeIA.gif)](../PlotInWork/伪彩图-gif.ipynb)
 ***
 
 ## 地理绘图
