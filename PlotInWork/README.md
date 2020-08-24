@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-08-20 22:44:22
+ * @LastEditTime: 2020-08-25 00:03:20
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -25,6 +25,7 @@
         - [箱图](#箱图)
         - [组分饼图](#组分饼图)
         - [直方图](#直方图)
+        - [线性相关系数图](#线性相关系数图)
     - [非常规绘图](#非常规绘图)
         - [双Y轴同比柱状图](#双y轴同比柱状图)
         - [共享X轴的时间序列图](#共享x轴的时间序列图)
@@ -69,6 +70,11 @@
 ### 直方图
 [![](https://i.loli.net/2020/07/31/9NhC2evdHTEjkrU.png)](../PlotInWork/common.ipynb)
 
+### 线性相关系数图
++ :pencil: `corr`实现计算相关系数矩阵
++ :smile: 使用`matplotlib.matshow`实现细节定制
++ :fire: 使用`seaborn`实现简易实现方式
+[![corr](https://i.loli.net/2020/08/24/er5tgjUSZFOn8Na.png)](../PlotInWork/相关性绘制.ipynb)
 ***
 ## 非常规绘图
 ### 双Y轴同比柱状图
