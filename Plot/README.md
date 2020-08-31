@@ -9,8 +9,11 @@
 + &#x26BD; [Plotly_scatter][plotly_scatter]点图绘制
 + &#x1F4A8; [Plotly_WindRose][plotly_windrose]风玫瑰图绘制
 + &#x1F4E6; [Plotly_Box][plotly_box]箱型图绘制
++ :smile: [color_bar][color_bar]自定义colorbar
 ## PyEcharts介绍
 + &#x1F30E; [地理图绘制][echarts]
+
+
 
 
 
@@ -31,3 +34,5 @@
 [echarts]: https://nbviewer.jupyter.org/github/codebysandwich/Plot/blob/master/PyEcharts/PyEcharts.ipynb
 
 [sampleplots]: https://nbviewer.jupyter.org/github/codebysandwich/Plot/blob/master/matplotlib/SamlpePlots.ipynb
+
+[color_bar]: ./matplotlib/自定义colormap.ipynb
