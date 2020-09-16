@@ -1,7 +1,7 @@
 <!--
  * @Author: sandwich
  * @Date: 2020-07-28 09:05:08
- * @LastEditTime: 2020-08-25 00:03:20
+ * @LastEditTime: 2020-09-16 14:36:14
  * @LastEditors: sandwich
  * @Description: 工作绘图开源文档
  * @FilePath: /DataScience/PlotInWork/README.md
@@ -41,6 +41,7 @@
         - [玫瑰图](#玫瑰图)
         - [雷达产品伪彩图](#雷达产品伪彩图)
         - [雷达局部扫描动态-gif绘制](#雷达局部扫描动态-gif绘制)
+    - [气象绘图](#气象绘图)
     - [地理绘图](#地理绘图)
     - [动态绘图](#动态绘图)
     - [tips](#tips)
@@ -156,6 +157,10 @@
 + :rocket: 实现时序图扫描并动态展示，可拓展到其他时序图
 [![](https://i.loli.net/2020/08/20/SJlWRsnHtOaEeIA.gif)](../PlotInWork/伪彩图-gif.ipynb)
 ***
+
+## 气象绘图
++ 实现全球1901-2018温度分布情况
+[![1901-2018 tmp](https://i.loli.net/2020/09/16/lJDY3kALmRXTjwG.png)](../PlotInWork/气象绘图.ipynb)
 
 ## 地理绘图
 + :fire:地图信息交互
